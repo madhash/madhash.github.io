@@ -95,6 +95,9 @@ h6 {
 
 p {
   margin: 10px 0 15px 0;
+  font-size: 21px;
+  font-family: Arial, sans-serif;
+  backgroung:silver;
 }
 
 footer p {
