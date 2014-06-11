@@ -50,8 +50,8 @@ Theme Styles
 
 body {
   box-sizing: border-box;
-  color:#373737;
-  background: #212121;
+  color:#00000;
+  background: #210000;
   font-size: 16px;
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -97,7 +97,7 @@ p {
   margin: 10px 0 15px 0;
   font-size: 21px;
   font-family: Arial, sans-serif;
-  backgroung:silver;
+  background:silver;
 }
 
 footer p {
